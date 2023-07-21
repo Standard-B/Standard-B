@@ -6,6 +6,8 @@
 ### Hi there 👋
 </div>
 
+<br>
+
 <div align=center>
 	<p>⭐ Portfolio ⭐</p>
 </div>
@@ -14,6 +16,8 @@
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 </div>
+
+<br>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>

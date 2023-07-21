@@ -1,10 +1,6 @@
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&desc=JeongSeok's%20%20GitHub%20%20Profile&descAlign=60&descAlignY=65&fontSize=90)
-</div>
 
-<div align=center>
 ### Hi there 👋
-</div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>

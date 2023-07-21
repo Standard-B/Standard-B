@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>⭐ Portfolio ⭐</p>
 </div>
 <div align=center>
 	<a href="https://yermi.co.kr">

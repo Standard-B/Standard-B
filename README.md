@@ -7,17 +7,19 @@
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
-
-<div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
+</div>
+
+<br>
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
 </div>
 
 <br>

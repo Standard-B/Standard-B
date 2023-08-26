@@ -2,10 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&desc=JeongSeok's%20GitHub%20Profile&descAlign=65&descAlignY=63&fontSize=90" />
 </div>
 
-<div align="center">
-### Hi there 👋
-</div>
-
 <br>
 
 <div align=center>
@@ -48,7 +44,7 @@
 	<p>⭐ Portfolio ⭐</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="https://Standard-B.github.io">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 </div>
